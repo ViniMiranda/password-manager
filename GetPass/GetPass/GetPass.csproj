@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{243CA77E-4CFC-46F4-8A8A-96FF2A2371DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GetPass</RootNamespace>
+    <AssemblyName>GetPass</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\conexao.cs" />
+    <Compile Include="Classes\hash.cs" />
+    <Compile Include="frm_alterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_alterar.Designer.cs">
+      <DependentUpon>frm_alterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_alterarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_alterarConta.Designer.cs">
+      <DependentUpon>frm_alterarConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_alterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_alterarSenha.Designer.cs">
+      <DependentUpon>frm_alterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro.Designer.cs">
+      <DependentUpon>frm_cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_config.Designer.cs">
+      <DependentUpon>frm_config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gerenciador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gerenciador.Designer.cs">
+      <DependentUpon>frm_gerenciador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_index.Designer.cs">
+      <DependentUpon>frm_index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_alterar.resx">
+      <DependentUpon>frm_alterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_alterarConta.resx">
+      <DependentUpon>frm_alterarConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_alterarSenha.resx">
+      <DependentUpon>frm_alterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro.resx">
+      <DependentUpon>frm_cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_config.resx">
+      <DependentUpon>frm_config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gerenciador.resx">
+      <DependentUpon>frm_gerenciador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_index.resx">
+      <DependentUpon>frm_index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\cfg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoNova.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\145389.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MySql.Data.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

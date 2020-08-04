@@ -1,0 +1,204 @@
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.pdb
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\GetPass\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\GetPass\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\GetPass\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\GetPass\GetPass\bin\Debug\MySql.Data.dll
+H:\TEP\3TRIM\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\GetPass - Copia\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\GetPass - Copia\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass - Copia\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\GetPass - Copia\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\GetPass - Copia\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.pdb
+H:\TEP\3TRIM\GetPass - Copia\GetPass\obj\Debug\GetPass.csprojResolveAssemblyReference.cache
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\MySql.Data.dll
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\GetPass -\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\GetPass -\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.Frm_gerenciador.resources
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.frm_index.resources
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass -\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\GetPass -\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\GetPass -\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass -\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\GetPass -\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\GetPass -\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Novo\GetPass\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.frm_index.resources
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Novo\GetPass 99%\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Trab\GetPass\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\bin\Debug\GetPass.exe.config
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\bin\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\bin\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.exe
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_cadastro.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_alterarConta.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_config.resources
+C:\Users\vinic\Downloads\Trab cadastro\GetPass\GetPass\obj\Debug\GetPass.frm_alterarSenha.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\MySql.Data.dll
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterarConta.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterarSenha.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_cadastro.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_config.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\Trabalho\GetPass\GetPass\obj\Debug\GetPass.pdb
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\MySql.Data.dll
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterarConta.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_alterarSenha.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_cadastro.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_config.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\C#\Trabalho\GetPass\GetPass\obj\Debug\GetPass.pdb
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\GetPass.exe.config
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\GetPass.exe
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\GetPass.pdb
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\MySql.Data.dll
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\Google.Protobuf.dll
+H:\TEP\3TRIM\C#\GetPass\GetPass\bin\Debug\MySql.Data.xml
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.csprojAssemblyReference.cache
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_alterar.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_alterarConta.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_alterarSenha.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_cadastro.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_config.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_gerenciador.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_index.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.frm_login.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.Properties.Resources.resources
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.csproj.GenerateResource.cache
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.csproj.CopyComplete
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.exe
+H:\TEP\3TRIM\C#\GetPass\GetPass\obj\Debug\GetPass.pdb
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_alterarConta.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_alterarSenha.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_cadastro.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.frm_config.resources
+C:\Users\vinic\Downloads\GetPass\GetPass\obj\Debug\GetPass.csproj.CoreCompileInputs.cache
